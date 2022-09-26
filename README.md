@@ -17,4 +17,4 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 Mock-Up
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance and functionality:<img width="1263" alt="Screen Shot 2022-09-25 at 8 18 29 PM" src="https://user-images.githubusercontent.com/110577068/192188470-1bf4318d-5b06-4a99-8448-ad3ea439b052.png">
